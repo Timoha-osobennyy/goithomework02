@@ -1,0 +1,155 @@
+body { 
+    color: FFFFFF;
+    width: 1440px;
+        height: 3300px;
+}
+.main-address {
+    font-style: normal;
+    line-height: 1,5;
+    letter-spacing: 0.02em;
+}
+button { cursor: pointer;
+border-radius: 4px;
+    background:  #4D5AE5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+ul{ list-style: none;}
+
+.info-link { 
+color: #434455;
+
+}
+.info-link:hover,
+.info-link:focus {
+    color: #404bbf;
+}
+
+.nav-focus {
+    color: #404bbf;
+}
+
+.logo {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32;
+}
+.studio-logo{
+    color: #2e2f42;
+}
+.studio-logo:focus {
+    color: #404bbf;
+}
+.effective-solutions{
+    color: #2e2f42;
+    background-color:#2e2f42;
+    
+}
+h1{
+    color: #FFFFFF;
+    font-family: Roboto;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 60px;
+        /* 107.143% */
+        letter-spacing: 1.12px;
+        text-align: center;
+}
+.ourteam{
+    background:  #F4F4FD;
+}
+.footer{ 
+    background: #2E2F42;
+}
+.footer-titel{
+    color: #FFFFFF;
+}
+.studio-footer{
+    color: #F4F4FD;
+}
+.h3ourportfolio{
+    color: #2E2F42;
+        
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+.p-ourportfolio{
+    color:  #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+.h3ourteam{
+    color:  #2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+.p-ourteam{
+    color:  #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+.h2-ourteam{
+color:  #2E2F42;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+.h2-ourportfolio{
+    color:  #2E2F42;
+        text-align: center;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        font-family: Roboto;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.72px;
+        text-transform: capitalize;
+}
+.h3-advantages{
+
+    color:  #2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+
+.p-advantages{
+
+    color:  #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
