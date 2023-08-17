@@ -74,9 +74,10 @@ h1{
 }
 .studio-footer{
     color: #F4F4FD;
-    line-height: 1.17
-    letter-spacing: 0.03em
-    text-transform: uppercase
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase; 
+    font-weight: 700;
 }
 .h3ourportfolio{
     color: #2E2F42;
