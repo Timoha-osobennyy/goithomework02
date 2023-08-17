@@ -37,6 +37,7 @@ color: #434455;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32;
+    
 }
 .studio-logo{
     color: #2e2f42;
@@ -67,10 +68,15 @@ h1{
     background: #2E2F42;
 }
 .footer-titel{
-    color: #FFFFFF;
+    color: #F4F4FD;
+    letter-spacing: 0.02em
+    line-height: 1.5
 }
 .studio-footer{
     color: #F4F4FD;
+    line-height: 1.17
+    letter-spacing: 0.03em
+    text-transform: uppercase
 }
 .h3ourportfolio{
     color: #2E2F42;
