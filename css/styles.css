@@ -34,9 +34,10 @@ color: #434455;
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
-    font-weight: 500;
-    line-height: 1.5;
+    font-weight: 700;
+    line-height: 1.17;
     letter-spacing: 0.32;
+    text-transform: uppercase;
     
 }
 .studio-logo{
