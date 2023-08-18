@@ -53,7 +53,6 @@ font-size: 16px;
 
  font-family: Raleway, sans-serif;
   font-size: 18px;
-  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-align: left;
@@ -81,7 +80,6 @@ font-size: 16px;
 .h-effective-solutions{
 color: #ffffff;
     font-size: 56px;
-    font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
@@ -91,7 +89,6 @@ background-color: #f4f4fd;
 }
 .section-ourteam{
                 font-size: 36px;
-                font-weight: 700;
                 line-height: 1.11;
                 letter-spacing: 0.02em;
                 color: #2e2f42;
@@ -120,7 +117,6 @@ background-color: #2e2f42;
 .setion-ourportfolio {
        
         font-size: 36px;
-        font-weight: 700;
         line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
@@ -196,7 +192,6 @@ background-color: #2e2f42;
         font-family: Roboto;
         font-size: 16px;
         font-style: normal;
-        font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.32px;
 }
