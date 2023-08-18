@@ -134,20 +134,20 @@ background-color: #2e2f42;
     background-color: #ffffff;
 }
 .h-ourteam{
-    font-size: 36px;
-    font-weight: 700;
-    line-height: 1.11;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    background-color: #f4f4fd;
+    background-color: #ffffff; 
     text-align: center;
     text-transform: capitalize;
     
 }
 .h-ourportfolio {
-    font-size: 36px;
-    font-weight: 700;
-    line-height: 1.11;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     background-color: #ffffff;
