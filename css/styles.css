@@ -74,7 +74,7 @@ font-size: 16px;
     background-color:#2e2f42;
     
 }
-.h1-effective-solutions{
+.h-effective-solutions{
 color: #ffffff;
     font-size: 56px;
     font-weight: 700;
@@ -103,7 +103,7 @@ background-color: #2e2f42;
     text-transform: uppercase; 
     font-weight: 700;
 }
-.h3ourportfolio{
+.h-ourportfolio{
     color: #2e2f42;
     background-color: #ffffff;
     font-size: 20px;
@@ -117,7 +117,7 @@ background-color: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.h3ourteam{
+.h-ourteam{
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -133,7 +133,7 @@ background-color: #2e2f42;
     color: #434455;
     background-color: #ffffff;
 }
-.h2-ourteam{
+.h-ourteam{
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -144,7 +144,7 @@ background-color: #2e2f42;
     text-transform: capitalize;
     
 }
-.h2-ourportfolio{
+.h-ourportfolio{
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -154,7 +154,7 @@ background-color: #2e2f42;
     text-align: center;
     text-transform: capitalize;
 }
-.h3-advantages{
+.h-advantages{
 
     color:  #2E2F42;
         font-family: Roboto;
